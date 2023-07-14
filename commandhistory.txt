@@ -1,0 +1,25 @@
+[root@localhost Documents]# history 
+    1  csd
+    2  cd
+    3  sudo yum install git
+    4  git
+    5  cd Documents/
+    6  ls
+    7  ls la
+    8  ls - la
+    9  ls -la
+   10  clear 
+   11  vi f1.txt
+   12  cat f1.txt 
+   13  git config --global user.name  "Vaidhiyanathangithub"
+   14  git config --global user.email "vaidhiyanathangithub@gmail.com"
+   15  git init
+   16  ls
+   17  git add .
+   18  git commit -m "Initial commit"
+   19  git remote add origin https://github.com/Vaidhiyanathangithub/sample.git
+   20  git push origin master
+   21  history 
+[root@localhost Documents]# 
+
+
