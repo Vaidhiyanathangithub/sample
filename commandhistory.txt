@@ -22,4 +22,11 @@
    21  history 
 [root@localhost Documents]# 
 
+       git config --global user.name  "Vaidhiyanathangithub"
+   83  git config --global user.email "vaidhiyanathangithub@gmail.com"
+   84  git init 
+   85  git add .
+   86  git commit -m "Initial commit"
+   87  git remote add origin https://github.com/Vaidhiyanathangithub/ansiblepratice.git
+   88  git push origin master
 
